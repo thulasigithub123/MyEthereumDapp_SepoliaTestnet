@@ -1,5 +1,16 @@
 # MyEthereumDapp_SepoliaTestnet
 
+Create a basic HTML web page
+Create a basic Solidity smart contract
+Connect the web page with the smart contracts using Ethers.js
+
+
+Prerequisites
+Metamask ( Sepolia test network )
+npm Node.js 
+lite-server // npm install -g lite-server
+Visual Studio Code
+
 ![image](https://github.com/thulasigithub123/MyEthereumDapp_SepoliaTestnet/assets/87015668/05597ccd-dafc-4773-822b-8524e64afd63)
 
 
